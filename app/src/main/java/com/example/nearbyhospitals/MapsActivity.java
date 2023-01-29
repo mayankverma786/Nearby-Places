@@ -44,7 +44,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(knplating, 16f));
         googleMap.addMarker(new MarkerOptions().position(knplating).title("Marker in Kanpur"));
 
-        mMap.addCircle(new CircleOptions().center(knplating).radius(1000).fillColor(Color.GREEN)
+        mMap.addCircle(new CircleOptions().center(knplating).radius(2000).fillColor(Color.GREEN)
                 .strokeColor(Color.DKGRAY));
 
     }
