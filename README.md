@@ -1,4 +1,4 @@
-# Nearby-Hospitals
+# Nearby-Places
 This is a app that shows nearby hospitals and other places in approx. 2km range
 Nearby
 This application shows the nearby Hospitals etc.., which is available within 2 Km. Also, you can see them through built in Google Maps.
@@ -11,7 +11,7 @@ Navigation Activity
 API key
 
 Feature--
-Nearby Hospitals, Places within 2km.
+Nearby Places within 2km.
 Built-in Google Maps
 
 Note--
